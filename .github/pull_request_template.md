@@ -33,6 +33,7 @@ Write here short high level description about the changes done.
 
 - [ ] **Documentation:** Updated (README, Wiki, API specs, etc.) if applicable.
 - [ ] **Agent Config:** `AGENT.MD` or similar files updated if applicable.
+- [ ] **Dependabot/Security:** All open dependency alerts addressed (if applicable to this repo).
 
 ## 🛠️ Testing done already
 
