@@ -14,6 +14,13 @@
 ## 🤖 Copilot review
 - [ ] I have a GitHub Copilot review and have resolved all comments.
 
+## 🤖 AI Disclosure
+### check one only
+
+- [ ] Fully done by ai
+- [ ] Partially done by ai
+- [ ] Carfully done by a human in an editor (with or without AI assistance)
+
 ## 🧪 Testing done already
 - [ ] Tested end-to-end in the intended operating environment (actual pod / target hardware).
 
