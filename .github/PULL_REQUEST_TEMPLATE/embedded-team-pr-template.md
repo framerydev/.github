@@ -19,10 +19,11 @@
 
 - [ ] Fully done by ai
 - [ ] Partially done by ai
-- [ ] Carfully done by a human in an editor (with or without AI assistance)
+- [ ] Carefully done by a human in an editor (with or without AI assistance)
 
 ## 🧪 Testing done already
-- [ ] Tested end-to-end in the intended operating environment (actual pod / target hardware).
+- [ ] Tested end-to-end in the intended operating environment (actual pod / target hardware). (If not, done explain why not.)
+
 
 ## 📣 Review urgency & follow-up
 - [ ] Posted a link to this PR in Slack and  @'ed the primary reviewer. If this is urgent, make clear that it is urgent. If it just needs a rubber stamp, make that clear too.
